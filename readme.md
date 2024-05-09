@@ -6,13 +6,13 @@ A simple script that allows key press of 'E' tracking when player is within a co
 
 > This code requires you to have at least basic typescript knowledge
 > <br>
-> This code requires [UUID](https://www.npmjs.com/package/uuid) installed
+> This code requires [UUID](https://www.npmjs.com/package/uuid) installed.
 
-> **Clientside**
-> Simple import `point.client.ts` to your main file initializer:
-> `import "./point.client"`
+**Clientside**<br>
+Simple import `point.client.ts` to your main file initializer:
+`import "./point.client"`
 
-**Server Side**
+**Server Side**<br>
 Drop the `point.server.ts` anywhere within your server side code and then simply import it when you're about to create a new point
 
 Example
